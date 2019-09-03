@@ -1,0 +1,30 @@
+{
+  "name": "iota-basics",
+  "version": "1.0.0",
+  "main": "convert-to-trytes.js",
+  "dependencies": {
+    "@iota/converter": "^1.0.0-beta.21",
+    "@iota/core": "^1.0.0-beta.21",
+    "@iota/curl": "^1.0.0-beta.19",
+    "@iota/curl-remote": "0.0.3",
+    "@iota/mam": "^0.7.3",
+    "basics": "0.0.3",
+    "encryption": "0.0.1",
+    "express": "^4.17.1",
+    "iota": "0.0.0",
+    "iota-converter": "^0.1.4",
+    "iota-seed-generator": "^1.0.0",
+    "iota.lib.js": "^0.5.2",
+    "mam": "^1.9.10",
+    "socket.io": "^2.2.0",
+    "web3": "^1.0.0-beta.55"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "send-bundles.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
