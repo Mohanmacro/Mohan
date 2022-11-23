@@ -16,7 +16,7 @@
     "iota-seed-generator": "^1.0.0",
     "iota.lib.js": "^0.5.2",
     "mam": "^1.9.10",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "web3": "^1.0.0-beta.55"
   },
   "devDependencies": {},
