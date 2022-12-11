@@ -10,7 +10,7 @@
     "@iota/mam": "^0.7.3",
     "basics": "0.0.3",
     "encryption": "0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "iota": "0.0.0",
     "iota-converter": "^0.1.4",
     "iota-seed-generator": "^1.0.0",
